@@ -1,10 +1,16 @@
 //mod print;
 // mod vars;
-mod strings;
+// mod strings;
+// mod tuples;
+// mod arrays;
+mod vectors;
 
 
 fn main() {
-    strings::run();
+    vectors::run();
+    // arrays::run();
+    // tuples::run();
+    // strings::run();
     // vars::run();
     //print::run();
     //println!("Hello, world!");
