@@ -1,9 +1,11 @@
 //mod print;
-mod vars;
+// mod vars;
+mod strings;
 
 
 fn main() {
-    vars::run();
+    strings::run();
+    // vars::run();
     //print::run();
     //println!("Hello, world!");
 }
