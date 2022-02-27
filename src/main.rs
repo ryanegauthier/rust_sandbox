@@ -1,17 +1,21 @@
-//mod print;
+// mod print;
 // mod vars;
 // mod strings;
 // mod tuples;
 // mod arrays;
-mod vectors;
+// mod vectors;
+// mod conditionals;
+mod loops;
 
 
 fn main() {
-    vectors::run();
-    // arrays::run();
-    // tuples::run();
-    // strings::run();
+    // print::run();
+    // println!("Hello, world!");
     // vars::run();
-    //print::run();
-    //println!("Hello, world!");
+    // strings::run();
+    // tuples::run();
+    // arrays::run();
+    // vectors::run();
+    // conditionals::run();
+    loops::run();
 }
