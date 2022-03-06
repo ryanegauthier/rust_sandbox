@@ -5,7 +5,10 @@
 // mod arrays;
 // mod vectors;
 // mod conditionals;
-mod loops;
+// mod loops;
+// mod functions;
+// mod pointer_ref;
+mod structs;
 
 
 fn main() {
@@ -17,5 +20,8 @@ fn main() {
     // arrays::run();
     // vectors::run();
     // conditionals::run();
-    loops::run();
+    // loops::run();
+    // functions::run();
+    // pointer_ref::run();
+    structs::run();
 }
